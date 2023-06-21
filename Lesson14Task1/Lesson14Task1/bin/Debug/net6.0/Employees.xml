@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Name>Andrii</Name>
+    <Surname>Leskiv</Surname>
+    <Position>Developer</Position>
+    <Salary>5000</Salary>
+  </Employee>
+  <Employee>
+    <Name>Bogdan</Name>
+    <Surname>Borivets</Surname>
+    <Position>Developer</Position>
+    <Salary>5500</Salary>
+  </Employee>
+  <Employee>
+    <Name>Victor</Name>
+    <Surname>Malarskiy</Surname>
+    <Position>QA</Position>
+    <Salary>5000</Salary>
+  </Employee>
+</ArrayOfEmployee>

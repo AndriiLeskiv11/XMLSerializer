@@ -1,0 +1,15 @@
+D:\.Net\Lesson14Task1\Lesson14Task1\bin\Debug\net6.0\Lesson14Task1.exe
+D:\.Net\Lesson14Task1\Lesson14Task1\bin\Debug\net6.0\Lesson14Task1.deps.json
+D:\.Net\Lesson14Task1\Lesson14Task1\bin\Debug\net6.0\Lesson14Task1.runtimeconfig.json
+D:\.Net\Lesson14Task1\Lesson14Task1\bin\Debug\net6.0\Lesson14Task1.dll
+D:\.Net\Lesson14Task1\Lesson14Task1\bin\Debug\net6.0\Lesson14Task1.pdb
+D:\.Net\Lesson14Task1\Lesson14Task1\obj\Debug\net6.0\Lesson14Task1.csproj.AssemblyReference.cache
+D:\.Net\Lesson14Task1\Lesson14Task1\obj\Debug\net6.0\Lesson14Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Lesson14Task1\Lesson14Task1\obj\Debug\net6.0\Lesson14Task1.AssemblyInfoInputs.cache
+D:\.Net\Lesson14Task1\Lesson14Task1\obj\Debug\net6.0\Lesson14Task1.AssemblyInfo.cs
+D:\.Net\Lesson14Task1\Lesson14Task1\obj\Debug\net6.0\Lesson14Task1.csproj.CoreCompileInputs.cache
+D:\.Net\Lesson14Task1\Lesson14Task1\obj\Debug\net6.0\Lesson14Task1.dll
+D:\.Net\Lesson14Task1\Lesson14Task1\obj\Debug\net6.0\refint\Lesson14Task1.dll
+D:\.Net\Lesson14Task1\Lesson14Task1\obj\Debug\net6.0\Lesson14Task1.pdb
+D:\.Net\Lesson14Task1\Lesson14Task1\obj\Debug\net6.0\Lesson14Task1.genruntimeconfig.cache
+D:\.Net\Lesson14Task1\Lesson14Task1\obj\Debug\net6.0\ref\Lesson14Task1.dll
